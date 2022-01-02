@@ -1,0 +1,30 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/rodolfo/repos/odin-recipes/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/05e6ab4b/
+.comida	styles.css	/^.comida {$/;"	c
+.enchiladas	styles.css	/^.enchiladas {$/;"	c
+.tacos	styles.css	/^.tacos,$/;"	c
+.titulos	styles.css	/^.titulos,$/;"	c
+Enchiladas	index.html	/^        <h2>Enchiladas<\/h2>$/;"	i
+Ingredientes	recipes/enchiladas.html	/^    <h2>Ingredientes<\/h2>$/;"	i
+Ingredientes	recipes/tacos.html	/^    <h2>Ingredientes<\/h2>$/;"	i
+Las mejores enchiladas	recipes/enchiladas.html	/^    <h2>Las mejores enchiladas<\/h2>$/;"	i
+Los mejores tacos	recipes/tacos.html	/^    <h2>Los mejores tacos<\/h2>$/;"	i
+Odin Recipes	index.html	/^    <h1>Odin Recipes<\/h1>$/;"	h
+Steps	recipes/enchiladas.html	/^    <h2>Steps<\/h2>$/;"	i
+Steps	recipes/tacos.html	/^    <h2>Steps<\/h2>$/;"	i
+Tacos	index.html	/^        <h2>Tacos<\/h2>$/;"	i
+Tacos de asada	recipes/enchiladas.html	/^    <h1>Tacos de asada<\/h1>$/;"	h
+Tacos de asada	recipes/tacos.html	/^    <h1>Tacos de asada<\/h1>$/;"	h
+a	styles.css	/^a {$/;"	s
+body	styles.css	/^body {$/;"	s
+img	styles.css	/^img {$/;"	s
+odin-recipes	README.md	/^# odin-recipes$/;"	c
